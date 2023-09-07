@@ -4,3 +4,4 @@ knowledge base. Our results show that well-constructed datasets lead to high det
 
 The model is part of a wider project, as it is trained using datasets generated with our Dialogue Simulator (https://github.com/IonutIga/Dialogue-Simulator/). It is intended to be incorporated as its NLU module, replacing the rule-based approach currently available in the system. More details available in the attached paper.
 
+V1.1 version of the notebook has added functionality for converting text formatted data (ATIS, SNIPS) into JSON format, while keeping all original labelings. 
